@@ -1,2 +1,3 @@
 <?php
-echo "hello!!";
+$sum = 3 + 9;
+echo "hello!! " . $sum;
